@@ -1,0 +1,12 @@
+.EDTData/
+.settings/
+bin/
+derived/
+*.log
+*.tmp
+*.err
+.metadata/
+RemoteSystemsTempFiles/
+.recommenders/
+*.user
+*.suo
